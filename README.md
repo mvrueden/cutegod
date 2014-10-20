@@ -1,6 +1,6 @@
 cutegod
 =======
-I created this project to get started with [Unity 3](http://unity3d.com/).
+I created this project to get started with [Unity 3D](http://unity3d.com/).
 
 The game idea is inspired by http://www.lostgarden.com/2007/05/cutegod-prototyping-challenge.html.
 
